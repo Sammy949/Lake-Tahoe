@@ -1,1 +1,1 @@
-# Lake-Tahoe-Tutorial
+# Lake-Tahoe
