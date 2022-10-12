@@ -1,7 +1,7 @@
 /* Web Fonts---------------- */
 
 @font-face {
-  font-family: 'Abolition Regular'
+  font-family: 'Abolition Regular';
 }
 
 /* Base Styles ---------------- */
@@ -20,7 +20,7 @@ h1 {
   font-size: 5.625rem;/* 90px/16px */
   text-transform: uppercase;
   font-weight: normal;
-  line-height: 1.3
+  line-height: 1.3;
   text-shadow: 0 1px 1px 0px rgba(0,0,0,.8);
   margin: 12px 0 0;
 }
@@ -80,7 +80,7 @@ a:active {
 	height: 850px;
 	background: linear-gradient(#ffa949, transparent 90%),
 	            linear-gradient(0deg, #fff, transparent),
-	            #ffa949 url('../img/resorts.jpg') no-repeat center;
+	            #ffa949 url('../img/mountains.jpg') no-repeat center;
 	background-size: cover; 
 	color: white;
 }
@@ -178,7 +178,6 @@ a:active {
 	float:right; 
 }
 
-
 /* Float Clearfix ----------------------*/
 
 .group:after {
@@ -209,7 +208,7 @@ a:active {
  }
 
   .main-header {
-  	max-heigth: 380px;
+  	max-height: 380px;
   	padding: 50px 25px 0 
   }
   .title {
