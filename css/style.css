@@ -83,6 +83,7 @@ a:active {
 	            #ffa949 url('../img/mountains.jpg') no-repeat center;
 	background-size: cover; 
 	color: white;
+	background-attachment: fixed;
 }
 
 .title {
